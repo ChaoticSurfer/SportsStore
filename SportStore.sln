@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore.Tests", "SportStore.Tests\SportStore.Tests.csproj", "{DB70C7D7-A571-4C3C-B085-4A41F66E3393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB70C7D7-A571-4C3C-B085-4A41F66E3393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB70C7D7-A571-4C3C-B085-4A41F66E3393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB70C7D7-A571-4C3C-B085-4A41F66E3393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB70C7D7-A571-4C3C-B085-4A41F66E3393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
